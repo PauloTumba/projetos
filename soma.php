@@ -8,6 +8,6 @@
 	
 	echo ($c);		
 
-	echo nl2br(" hello world");
+	echo nl2br(" ola mundo");
 
 ?>
