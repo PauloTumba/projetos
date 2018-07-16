@@ -3,10 +3,12 @@
 
 
 	$a=10;
-	$b= 40;
+	$b= 20;
 	$c= $a+$b;
+	echo "<br/>";
 	
-	echo ($c);		
+	echo ($c);
+	echo "<br/>";		
 
 	echo nl2br(" ola mundo");
 
