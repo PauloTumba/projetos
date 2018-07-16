@@ -2,16 +2,15 @@
 
 
 
-	$a=8;
+	$a=80;
 	$b= 40;
 	$c= $a+$b;
 	
-	echo ($c);
-	
-	
+	echo ($c);		
 
 	echo nl2br(" hello world");
 
+<<<<<<< HEAD
 
 
 
@@ -33,3 +32,6 @@
 
 
 </html>
+=======
+?>
+>>>>>>> 6a989a7b67d08c87370e06b9cd8574c9f58bc292
