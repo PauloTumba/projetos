@@ -18,3 +18,18 @@
 
 
 ?>
+<html>
+
+
+	
+
+	 <form >
+                    
+                    <input type="text" name="nome" />
+                    <button type="submit" button ="Entrar"><span  >Entrar</b></span></span></button>
+                </form>
+
+
+
+
+</html>
